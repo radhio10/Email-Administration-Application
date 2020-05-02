@@ -1,5 +1,6 @@
 # Email-Administration-Application
 Email Application
+
 This application do have the following features:
  Generate an email with the following syntax: firstname.lastname@department.company.com
  Determine the department (sales, development, accounting), if none leave blank
